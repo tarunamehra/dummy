@@ -1,5 +1,7 @@
 # Dolphin Overview
 
+![DolphinLogo](download.png)
+
 Dolphin Retail is a software tool developed by KGiSL for stockbroking companies. It is a back end operations tool. It helps them manage clients, trades, money and rules of SEBI
 
 ## Key Features 
